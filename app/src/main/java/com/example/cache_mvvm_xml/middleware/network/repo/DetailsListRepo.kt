@@ -1,8 +1,7 @@
 package com.example.cache_mvvm_xml.middleware.network.repo
 
-import android.util.Log
 import com.example.cache_mvvm_xml.base.Result
-import com.example.cache_mvvm_xml.base.toResult
+import com.example.cache_mvvm_xml.middleware.network.toResult
 import com.example.cache_mvvm_xml.data.Details
 import com.example.cache_mvvm_xml.middleware.network.Api
 import javax.inject.Inject
